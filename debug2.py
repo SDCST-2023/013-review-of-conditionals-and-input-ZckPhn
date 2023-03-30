@@ -8,6 +8,6 @@ answer = a + 3
 print(answer)
 """
 
-a = input("enter an integer")
+a = input(int("enter an integer"))
 answer = a + 3
 print(answer)
